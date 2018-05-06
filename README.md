@@ -1,4 +1,3 @@
 # mywrapper_chef-client
 
-TODO: Enter the cookbook description here.
-
+This cookbook is a simple wrapper to the [chef-client](https://github.com/chef-cookbooks/chef-client) cookbook.
