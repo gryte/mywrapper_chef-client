@@ -4,7 +4,7 @@ maintainer_email 'alinkous+support@gmail.com'
 license 'All Rights Reserved'
 description 'Installs/Configures mywrapper_chef-client'
 long_description 'Installs/Configures mywrapper_chef-client'
-version '0.1.0'
+version '0.1.1'
 supports 'centos'
 chef_version '>= 12.19' if respond_to?(:chef_version)
 issues_url 'https://github.com/gryte/mywrapper_chef-client/issues'
